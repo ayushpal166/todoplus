@@ -1,6 +1,16 @@
 # todoplus
 
-A new Flutter project.
+A simple to-do list app built using Flutter, a cross-platform development framework.
+
+This app allows users to create, manage, and track their tasks efficiently.
+
+Features:
+
+-> Add new tasks to your to-do list.
+
+-> Mark task as completed.
+
+-> Delete tasks when they are no longer needed.
 
 ## Getting Started
 
