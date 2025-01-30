@@ -12,6 +12,12 @@ Features:
 
 -> Delete tasks when they are no longer needed.
 
+📱 Screenshots:
+![Todoplusimg](https://github.com/user-attachments/assets/7b5dfa5c-926a-47a0-a1b5-cdd79637b71f)
+![Todoplusapp](https://github.com/user-attachments/assets/9b7608f6-6275-4371-a1f7-8c40b1ff6d96)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
